@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+   <head>
+      <meta charset="utf-8">
+      <title>ورود</title>
+      <link rel="stylesheet" href="login.css">
+       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+   </head>
+   <body>
+      <div  id="bg-img">
+         <div class="content">
+            <header class="name">دبیرستان علامه حلی</header>
+            <form action="#" >
+               <select id="role" name="role" required >
+               <option value="" selected disabled>نقش خود را انتخاب کنید</option>
+               <option value="teacher">دبیر</option>
+               <option value="student">دانش آموز</option>
+               </select><br><br>
+               <div class="field">
+                  <span class="fa fa-user"></span>
+                  <input type="text" required placeholder="نام کاربری">
+               </div>
+               <div class="field space">
+                  <span class="fa fa-lock"></span>
+                  <input type="password" class="pass-key" required placeholder="رمز عبور">
+                  <span class="show">SHOW</span>
+               </div>
+               <br>
+               <div class="pass">
+                  <a href="#">رمز عبور خود را فراموش کرده اید؟</a>
+               </div>
+               <br>
+               <div class="field">
+                  <input type="submit" value="ورود" style="font-family: font2;">
+               </div>
+            </form>
+            <!-- <div class="login">
+               Or login with
+            </div>
+            <div class="links">
+               <div class="facebook">
+                  <i class="fab fa-facebook-f"><span>Facebook</span></i>
+               </div>
+               <div class="instagram">
+                  <i class="fab fa-instagram"><span>Instagram</span></i>
+               </div>
+            </div> -->
+            <br>
+            <div class="signup">
+               حساب کاربری ندارید؟
+               <a href="#">ثبت نام</a>
+            </div>
+         </div>
+      </div>
+      <script src="login.js"></script>
+   </body>
+</html>
