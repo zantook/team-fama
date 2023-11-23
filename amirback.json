@@ -1,0 +1,15 @@
+{
+  "name": "amir47back",
+  "version": "1.0.0",
+  "description": "I am a poor backeneder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "team fama"
+  },
+  "author": "AmirElegant",
+  "license": "ISC"
+}
