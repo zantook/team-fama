@@ -6,6 +6,10 @@ const exerciseSchema = new Schema ({
         required :true 
          
     },
+    exerciseName :{
+        type : String,
+        required : true
+    },
     description : {
         type : String,
         required :true 
