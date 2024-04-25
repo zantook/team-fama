@@ -29,7 +29,8 @@ newExercise.save()
 
   });
   router.route('/:id').get((req,res)=>{
-Exercise.findById(req.param.id)
+    
+Exercise.findById(req.params.id)
 .then(exercise => res.json(exercise))
 .catch(err => res.status(400).json('Error: '+err));
 
