@@ -1,0 +1,386 @@
+[{
+  "_id": {
+    "$oid": "660bcc237fd74e5d9015d0e5"
+  },
+  "name": "teaser",
+  "difficulty": "medium",
+  "muscles": [
+    "stomach",
+    "fillet"
+  ],
+  "type": "strength",
+  "place": "home gym",
+  "createdAt": {
+    "$date": "2024-04-02T09:13:07.827Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T09:13:07.827Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660bce96e66f16e497a45252"
+  },
+  "name": "periodic crab",
+  "difficulty": "medium",
+  "muscles": [
+    "stomach",
+    "fillet",
+    "shoulder",
+    "thigh"
+  ],
+  "type": "aerobic",
+  "place": "home gym",
+  "createdAt": {
+    "$date": "2024-04-02T09:23:34.713Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T09:23:34.713Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660bcf94e66f16e497a45254"
+  },
+  "name": "hammering",
+  "difficulty": "amateur",
+  "muscles": [
+    "stomach",
+    "fillet",
+    "shoulder",
+    "armpit"
+  ],
+  "type": "aerobic",
+  "place": "home",
+  "createdAt": {
+    "$date": "2024-04-02T09:27:48.474Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T09:27:48.474Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660bcfece66f16e497a45256"
+  },
+  "name": "power-clean",
+  "difficulty": "medium",
+  "muscles": [
+    "shoulder",
+    "armpit"
+  ],
+  "type": "strength",
+  "place": "gym",
+  "createdAt": {
+    "$date": "2024-04-02T09:29:16.641Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T09:29:16.641Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660bd0cae66f16e497a45258"
+  },
+  "name": "box-shuffle",
+  "difficulty": "medium",
+  "muscles": [
+    "hips",
+    "thigh"
+  ],
+  "type": "plyometrics",
+  "place": "home gym",
+  "createdAt": {
+    "$date": "2024-04-02T09:32:58.313Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T09:32:58.313Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660bd219e66f16e497a4525a"
+  },
+  "name": "periodic lied-down instep",
+  "difficulty": "advanced",
+  "muscles": [
+    "hamstring",
+    "thigh"
+  ],
+  "type": "strength",
+  "place": "gym",
+  "createdAt": {
+    "$date": "2024-04-02T09:38:33.586Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T09:38:33.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660bd2bfe66f16e497a4525c"
+  },
+  "name": "crawl leg",
+  "difficulty": "medium",
+  "muscles": [
+    "hips",
+    "stomach",
+    "fillet"
+  ],
+  "type": "strength",
+  "place": "home gym",
+  "createdAt": {
+    "$date": "2024-04-02T09:41:19.318Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T09:41:19.318Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660bd2fde66f16e497a4525e"
+  },
+  "name": "candle",
+  "difficulty": "advanced",
+  "muscles": [
+    "stomach",
+    "fillet"
+  ],
+  "type": "strength",
+  "place": "home gym",
+  "createdAt": {
+    "$date": "2024-04-02T09:42:21.230Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T09:42:21.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660bd363e66f16e497a45260"
+  },
+  "name": "flyback",
+  "difficulty": "medium",
+  "muscles": [
+    "shoulder"
+  ],
+  "type": "strength",
+  "place": "gym",
+  "createdAt": {
+    "$date": "2024-04-02T09:44:03.606Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T09:44:03.606Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660bd438e66f16e497a45262"
+  },
+  "name": "hip trust",
+  "difficulty": "amateur",
+  "muscles": [
+    "hips"
+  ],
+  "type": "strength",
+  "place": "gym",
+  "createdAt": {
+    "$date": "2024-04-02T09:47:36.822Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T09:47:36.822Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660bd4a9e66f16e497a45264"
+  },
+  "name": "forearm halter",
+  "difficulty": "advanced",
+  "muscles": [
+    "forearm"
+  ],
+  "type": "strength",
+  "place": "gym",
+  "createdAt": {
+    "$date": "2024-04-02T09:49:29.158Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T09:49:29.158Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660bd570e66f16e497a45266"
+  },
+  "name": "stomach roll",
+  "difficulty": "medium",
+  "muscles": [
+    "stomach",
+    "fillet"
+  ],
+  "type": "strength",
+  "place": "home gym",
+  "createdAt": {
+    "$date": "2024-04-02T09:52:48.944Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T09:52:48.944Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660bd665e66f16e497a45268"
+  },
+  "name": "flying dog",
+  "difficulty": "medium",
+  "muscles": [
+    "stomach",
+    "fillet",
+    "shoulder"
+  ],
+  "type": "tensile functional",
+  "place": "home gym",
+  "createdAt": {
+    "$date": "2024-04-02T09:56:53.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T09:56:53.171Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660bd70be66f16e497a4526a"
+  },
+  "name": "squat",
+  "difficulty": "amateur",
+  "muscles": [
+    "hips",
+    "thigh"
+  ],
+  "type": "strength functional",
+  "place": "gym",
+  "createdAt": {
+    "$date": "2024-04-02T09:59:39.569Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T09:59:39.569Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660bd797e66f16e497a4526c"
+  },
+  "name": "super man",
+  "difficulty": "advanced",
+  "muscles": [
+    "fillet",
+    "stomach"
+  ],
+  "type": "strength functional",
+  "place": "home gym",
+  "createdAt": {
+    "$date": "2024-04-02T10:01:59.817Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T10:01:59.817Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660bd7ffe66f16e497a4526e"
+  },
+  "name": "situp",
+  "difficulty": "amateur",
+  "muscles": [
+    "fillet",
+    "stomach"
+  ],
+  "type": "functional",
+  "place": "home gym",
+  "createdAt": {
+    "$date": "2024-04-02T10:03:43.948Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T10:03:43.948Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660bd897e66f16e497a45270"
+  },
+  "name": "rowing",
+  "difficulty": "medium",
+  "muscles": [
+    "back",
+    "armpit"
+  ],
+  "type": "strength",
+  "place": "gym",
+  "createdAt": {
+    "$date": "2024-04-02T10:06:15.803Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T10:06:15.803Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660bd9c0e66f16e497a45272"
+  },
+  "name": "cross jack",
+  "difficulty": "advanced",
+  "muscles": [
+    "stomach",
+    "armpit",
+    "leg",
+    "shoulder",
+    "fillet"
+  ],
+  "type": "plyometrics",
+  "place": "home gym",
+  "createdAt": {
+    "$date": "2024-04-02T10:11:12.480Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T10:11:12.480Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660bda12e66f16e497a45274"
+  },
+  "name": "russian crunch",
+  "difficulty": "medium",
+  "muscles": [
+    "stomach",
+    "fillet"
+  ],
+  "type": "strength",
+  "place": "home gym",
+  "createdAt": {
+    "$date": "2024-04-02T10:12:34.182Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T10:12:34.182Z"
+  },
+  "__v": 0
+}]
